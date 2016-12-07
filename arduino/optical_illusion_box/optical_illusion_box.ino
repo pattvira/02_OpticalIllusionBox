@@ -6,7 +6,7 @@
 */
 
 #include <AccelStepper.h>              // AccelStepper Library can be downloaded here: http://www.airspayce.com/mikem/arduino/AccelStepper/index.html
-// To import a library: Go to Sketch > Import Library > Add Library > [your downloaded file]
+                                       // To import a library: Go to Sketch > Import Library > Add Library > [your downloaded file]
 
 AccelStepper stepper(4, 2, 3, 4, 5);   // Defaults to AccelStepper::FULL4WIRE (4 pins) on 2, 3, 4, 5
 
