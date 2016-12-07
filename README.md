@@ -16,7 +16,7 @@ A phenakistoscope is an optical illusion device that creates an illusion of moti
 Say a disc is divided into 12 even slices of pies. And say the motor runs at a speed of 1 revolution per second (or 60 revolution per minute). We want to see all 12 images each revolution, so we need to flash the light 12 times.  So the math comes down to strobing the light every ~83.33 milliseconds (1000ms / 12). It is as simple as that, and the magic comes alive!
 
 What is a phyllotaxis? 
-![]({{site.baseurl}}//phyllotaxis.png)
+![](phyllotaxis.png)
 
 This is a phyllotaxis.
 
@@ -47,4 +47,4 @@ Stepper Motor Library
 Materials
 
 **Circuit Diagram**
-![]({{site.baseurl}}//circuit_diagram.png)
+![](circuit_diagram.png)
