@@ -1,5 +1,5 @@
 ## 02_OpticalIllusionBox
-[pattvira.com/optical_illusion_box](http://pattvira.com/optical_illusion_box)
+[pattvira.com/optical-illusion-box](http://pattvira.com/optical-illusion-box)
 
 [Video documentation](https://youtu.be/s-N7QZBRejU)
 
